@@ -1,0 +1,28 @@
+{
+  "name": "festival_react",
+  "version": "1.0.0",
+  "description": "Mi repositorio para festival de react",
+  "keywords": [
+    "dweb",
+    "dam",
+    "2b",
+    "react",
+    "festival",
+    "msanz"
+  ],
+  "homepage": "https://github.com/Jon-Muniay/Festival_React#readme",
+  "bugs": {
+    "url": "https://github.com/Jon-Muniay/Festival_React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon-Muniay/Festival_React.git"
+  },
+  "license": "ISC",
+  "author": "Jon Muniay <jmuniayhij@educacion.navarra.es>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
